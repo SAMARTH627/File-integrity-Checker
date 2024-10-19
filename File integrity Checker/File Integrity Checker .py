@@ -2,7 +2,7 @@ import os
 import hashlib
 
 def calculate_sha256(file_path):
-    sha256_hash = hashlib.sha256()  # Corrected the assignment
+    sha256_hash = hashlib.sha256()  
     with open(file_path, "rb") as f:
         while True:
             data = f.read(65536)
@@ -13,7 +13,7 @@ def calculate_sha256(file_path):
 
 def check_integrity(directory_path):
     if not os.path.exists(directory_path) or not os.path.isdir(directory_path):
-        print(f"Directory '{directory_path}' does not exist.")  # Corrected the print string
+        print(f"Directory '{directory_path}' does not exist.") 
         return
 
     for root, dirs, files in os.walk(directory_path):
