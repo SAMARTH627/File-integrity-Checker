@@ -18,7 +18,8 @@ Usage:
 Example:
 ![image](https://github.com/user-attachments/assets/a05b64d0-8889-45d7-857c-bb72a2caaf57)
 
-![image](https://github.com/user-attachments/assets/0226dfb8-e895-4972-8bcd-7ac72b7f7f32)
+![image](https://github.com/user-attachments/assets/9e428428-b744-4637-ac39-1be515744380)
+
 
 The hash codes of both files are the same this means that this file in not altered or any malicious code is not added to it. 
 Requirements:
