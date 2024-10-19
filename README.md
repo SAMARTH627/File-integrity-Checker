@@ -8,22 +8,21 @@ Recursive Directory Traversal: Automatically walks through all files in the prov
 
 Cross-Platform Compatibility: Works on Linux, Windows, or any system with Python installed.
 
-
 Usage:
-Clone the repository or download the script.
+1.Clone the repository or download the script.
 
-Run the script and enter the directory path you wish to verify.
+2.Run the script and enter the directory path you wish to verify.
 
-The tool will print the file names and their corresponding SHA-256 hashes.
+3.The tool will print the file names and their corresponding SHA-256 hashes.
 
 Example:
 
 
 Requirements:
 
-Python 3.x
+1.Python 3.x
 
-No external dependencies (uses built-in libraries: os and hashlib)
+2.No external dependencies (uses built-in libraries: os and hashlib)
 
-This tool is ideal for quickly verifying the integrity of files in a directory and can be customized to use other hashing algorithms if needed.
+3.This tool is ideal for quickly verifying the integrity of files in a directory and can be customized to use other hashing algorithms if needed.
 
