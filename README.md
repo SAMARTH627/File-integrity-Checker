@@ -16,8 +16,11 @@ Usage:
 3.The tool will print the file names and their corresponding SHA-256 hashes.
 
 Example:
+![image](https://github.com/user-attachments/assets/a05b64d0-8889-45d7-857c-bb72a2caaf57)
 
+![image](https://github.com/user-attachments/assets/0226dfb8-e895-4972-8bcd-7ac72b7f7f32)
 
+The hash codes of both files are the same this means that this file in not altered or any malicious code is not added to it. 
 Requirements:
 
 1.Python 3.x
