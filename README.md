@@ -1,14 +1,15 @@
 # File-integrity-Checker
 This Python-based File Integrity Checker calculates and verifies the SHA-256 hash of all files in a given directory. It's a simple tool for ensuring that files in a directory have not been tampered with or corrupted.
 
-Features:
+#Features:
+
 SHA-256 Hash Calculation: Computes the SHA-256 hash for each file in the specified directory, ensuring a robust and secure file integrity check.
 
 Recursive Directory Traversal: Automatically walks through all files in the provided directory, including subdirectories.
 
 Cross-Platform Compatibility: Works on Linux, Windows, or any system with Python installed.
 
-Usage:
+#Usage:
 1.Clone the repository or download the script.
 
 2.Run the script and enter the directory path you wish to verify.
